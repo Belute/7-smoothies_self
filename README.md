@@ -17,3 +17,17 @@ Site published at: https://belute.github.io/Smoothies_html_css/
 ## Authors
 
 Justinas: [Github](https://github.com/belute)
+
+
+## Code sample
+
+```
+           <div class="list">
+                    <h2 class="list-title">Nutrition benefits:</h2>
+                    <ul class="list-plus">
+                        <li>Vitamin A</li>
+                        <li>Vitamin C</li>
+                        <li>Citric acid</li>
+                    </ul>
+                </div>
+```
